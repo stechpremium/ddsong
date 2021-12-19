@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "ds.admin.utc.com",
+  "Id": "1fe35033-92e5-498a-b3d7-afd2af3c6c2b"
+}
